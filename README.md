@@ -11,3 +11,5 @@
 Creating a new branch is quick and simple.
 
 dev 分支，合并
+
+分支管理策略
