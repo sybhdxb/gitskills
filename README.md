@@ -15,4 +15,5 @@ dev 分支，合并
 分支管理策略
 
 bug 分支
+
 Git is a free software...
