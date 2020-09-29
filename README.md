@@ -8,6 +8,6 @@
 
 ### 从远程拉取到本地 2
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 
 dev 分支，合并
